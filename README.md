@@ -1,4 +1,4 @@
-# Rose-of-Bcn
+# Flor-of-Bcn
 PCB-Art with KiCAD workshop (FAB-Casa del Mig, Barcelona) - June 2026
 
 In collaboration with: FAB - Casa del Mig (Barcelona; Oriol Blas, Ricard Gómez and Neus Martínez)
@@ -11,7 +11,7 @@ In collaboration with: FAB - Casa del Mig (Barcelona; Oriol Blas, Ricard Gómez 
     <td>
       <h2>Description</h2>
       <p>
-        This was an educational project designed to teach soldering techniques for assembling small electronic components like LEDs, switches and battery holders onto a stylish, practical and customizable flashlight PCB.
+        This was an educational project designed to teach PCB layout using kiCAD and Inskcape for the design part. The users have a digital files of a pendent with the rose of Barcelona ready to be ordered.
       </p>
       <p>
         This design was modified several times, so you can see different versions in the photos folder. However, the latest version features a curved line on the upper side instead of a straight one.
