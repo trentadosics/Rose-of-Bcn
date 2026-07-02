@@ -1,4 +1,4 @@
-# Flor-of-Bcn
+# Rose-of-Bcn
 PCB-Art with KiCAD workshop (FAB-Casa del Mig, Barcelona) - June 2026
 
 In collaboration with: FAB - Casa del Mig (Barcelona; Oriol Blas, Ricard Gómez and Neus Martínez)
