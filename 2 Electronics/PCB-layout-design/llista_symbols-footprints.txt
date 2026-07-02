@@ -1,0 +1,58 @@
+BATERIA
+> Symbol 
+   - Nickname: Device    
+   - Arxiu: Battery_Cell (Single-cell battery)	NATIU
+> Footprint 
+   - NickName: BatteryHolder_1060_3VCR2032_SMD
+   - Arxiu: 1060_3VCR2032_SMD			EXTERN
+               
+
+INTERRUPTOR
+> Symbol
+   - Nickname: SwitchSlider_SMD_913535    
+   - Arxiu: SLW-913535-2A-SMT			EXTERN
+> Footprint 
+   - Nickname: SwitchSlider_SMD_913535    
+   - Arxiu: SLW-913535_CUD			EXTERN
+
+
+RESISTÈNCIES
+> Symbol
+   - Nickname: Device    			
+   - Arxiu: R (Resistor)			NATIU
+> Footprint 
+   - Nickname: Resistor_2512_SMD_73M2AR002F     
+   - Arxiu: RES_73M2A1-4mOHM_CST		EXTERN
+
+LED
+> Symbol
+   - Nickname: Device     			
+   - Arxiu: LED (Light emitting diode)		NATIU
+> Footprint 
+   - Nickname: LEDCOB-flexible-filament-SMD     
+   - Arxiu: LEDCOB-flexible-filament-SMD	EXTERN
+
+TRANSISTOR
+> Symbol
+   - Nickname: Transistor_SMD_BCP56-10_npn     			
+   - Arxiu: NPN (Symbol for NPN BJT)		EXTERN
+> Footprint 
+   - Nickname: Transistor_SMD_BCP56-10_npn     
+   - Arxiu: P205_SOT-223 (SOT-223 4 pins)	EXTERN
+
+SENSOR DE VIBRACIÓ
+> Symbol
+   - Nickname: TD-1210-X3228-A1     			
+   - Arxiu: TD-1210-X3228-A1 (SMD,3.2x2.8mm Vibration Sensors RoHS)	EXTERN
+> Footprint 
+   - Nickname: TD-1210-X3228-A1     
+   - Arxiu: TD-1210-X3228-A1			EXTERN
+
+
+PWR_FLAG
+ - Nickname: power     			
+ - Arxiu: PWR_FLAG (Special symbol for telling ERC where powers comes from)	NATIU
+GND
+ - Nickname: power     			
+ - Arxiu: GND (Power symbol creates a global label with name "GND", ground)	NATIU
+

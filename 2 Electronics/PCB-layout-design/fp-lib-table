@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "panotPCB-4_dissenyPCBArt_fonsVermellFosc")(type KiCad)(uri "$(KIPRJMOD)/panotPCB-4_dissenyPCBArt_fonsVermellFosc.pretty")(options "")(descr ""))
+)
