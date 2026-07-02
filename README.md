@@ -14,7 +14,7 @@ In collaboration with: FAB - Casa del Mig (Barcelona; Oriol Blas, Ricard Gómez 
         This was an educational project designed to teach PCB layout design using kiCAD and Inskcape for the graphic design part. At the end, the users have a digital file of a PCB pendant with the rose of Barcelona ready to be ordered.
       </p>
       <p>
-        This has an LED which turns on with every little movement or shake.
+        This design has an LED on the outline which turns on with every little movement or shake.
       </p>
       <p>
         This design is also available on PCBWay, ready to order:
