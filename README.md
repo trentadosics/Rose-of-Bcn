@@ -11,7 +11,7 @@ In collaboration with: FAB - Casa del Mig (Barcelona; Oriol Blas, Ricard Gómez 
     <td>
       <h2>Description</h2>
       <p>
-        This was an educational project designed to teach PCB layout using kiCAD and Inskcape for the design part. The users have a digital files of a pendent with the rose of Barcelona ready to be ordered.
+        This was an educational project designed to teach PCB layout design using kiCAD and Inskcape for the graphic design part. At the end, the users have a digital file of a PCB pendant with the rose of Barcelona ready to be ordered.
       </p>
       <p>
         This design was modified several times, so you can see different versions in the photos folder. However, the latest version features a curved line on the upper side instead of a straight one.
