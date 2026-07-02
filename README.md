@@ -6,7 +6,7 @@ In collaboration with: FAB - Casa del Mig (Barcelona; Oriol Blas, Ricard Gómez 
 <table>
   <tr>
     <td width="220">
-      <img src="https://github.com/user-attachments/assets/e84de5af-d158-4815-95a9-01dad8212128" width="200">
+      <img width="200" height="199.22" alt="render_kicad_PCBred-4" src="https://github.com/user-attachments/assets/66bddf59-8ea4-4bbc-8623-dabb639bddab" />
     </td>
     <td>
       <h2>Description</h2>
