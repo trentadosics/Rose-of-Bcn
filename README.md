@@ -12,8 +12,6 @@ In collaboration with: FAB - Casa del Mig (Barcelona; Oriol Blas, Ricard Gómez 
       <h2>Description</h2>
       <p>
         This educational project was designed to teach the fundamentals of PCB layout design using KiCad, along with Inkscape for the graphical design of the PCB.
-
-        By the end of the workshop, participants have a complete digital design of a pendant PCB featuring the Rose of Barcelona, ready to be ordered.
       </p>
       <p>
         The pendant includes an LED around its outline that lights up whenever it is moved or shaken.
