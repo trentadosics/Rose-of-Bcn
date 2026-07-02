@@ -18,7 +18,7 @@ In collaboration with: FAB - Casa del Mig (Barcelona; Oriol Blas, Ricard Gómez 
       </p>
       <p>
         This design is also available on PCBWay, ready to order:
-        <a href="https://www.pcbway.com/project/shareproject/Flashlight_PCB_customizable_2cbe94a4.html">
+        <a https://www.pcbway.com/project/shareproject/Flor_de_Barcelona_PCB_2439f1df.html">
           View on PCBWay
         </a>
       </p>
